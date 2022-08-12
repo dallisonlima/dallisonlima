@@ -3,7 +3,7 @@
 Graduando em Sistemas de Informação no Instituto Federal de Goiás
 Trabalho atualmente como Delivery Analyst na BRLink.
 
-Sou apaixonado por tecnologia e tudo que envolve programação ou desenvolvimento de softwares. Os desafios me movem para que eu possa a cada dia mais crescer e me tornar um profissional de TI completo.
+Sou apaixonado por tecnologia e tudo que envolve programação e/ou infraestrutura como código voltada para nuvem. Os desafios me movem para que eu possa a cada dia mais crescer e me tornar um profissional de TI completo.
 
 ### Contatos: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dallison-lima/)
