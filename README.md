@@ -1,7 +1,7 @@
 ### Seja bem vindo, sou Dallison Lima!
 
 Graduando em Sistemas de Informação no Instituto Federal de Goiás
-Trabalho atualmente como Delivery Analyst na BRLink.
+Trabalho atualmente como SRE na Compass.UOL.
 
 Sou apaixonado por tecnologia e tudo que envolve programação e/ou infraestrutura como código voltada para nuvem. Os desafios me movem para que eu possa a cada dia mais crescer e me tornar um profissional de TI completo.
 
