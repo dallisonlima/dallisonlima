@@ -14,8 +14,9 @@ Os desafios me movem para que eu possa a cada dia mais crescer e me tornar um pr
   <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-white?logo=docker" />
   <img align="center" alt="AWS" src="https://img.shields.io/badge/aws-blue?logo=amazon-aws" />
   <img align="center" alt="Terraform" src="https://img.shields.io/badge/terraform-white?logo=terraform" />
-  <img align="center" alt="Terraform" src="https://img.shields.io/badge/github-blue?logo=gitlab" />
+  <img align="center" alt="Terraform" src="https://img.shields.io/badge/github-blue?logo=github" />
   <img align="center" alt="Terraform" src="https://img.shields.io/badge/git-white?logo=git" />
+  <img align="center" alt="Terraform" src="https://img.shields.io/badge/gitlab-blue?logo=gitlab" />
 
 
 
